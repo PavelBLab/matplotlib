@@ -1,0 +1,1 @@
+plt.tight_layout(rect=[0.1, 1, 1, 0.9]) # Usually tight_layout() does a pretty good job at positioning everything in good locations so that they don't overlap
